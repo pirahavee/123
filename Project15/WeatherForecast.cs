@@ -2,6 +2,7 @@ using System;
 
 namespace Project15
 {
+    // this is a comment
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
